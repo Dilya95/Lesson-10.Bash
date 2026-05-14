@@ -203,3 +203,4 @@ main() {
 
     rm -f "$chunk" "$report"
 }
+main "$@"
